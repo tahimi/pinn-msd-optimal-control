@@ -1,6 +1,6 @@
 # Companion Notebook — Dual-Network PINN for Mass–Spring–Damper Optimal Control
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20404730.svg)](https://doi.org/10.5281/zenodo.20404730)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tahimi/PINN-MSD-Optimal-Control/blob/main/PINN_MSD_Optimal_Control.ipynb)
 
