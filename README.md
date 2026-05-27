@@ -89,8 +89,8 @@ If you use this code or the accompanying paper, please cite both:
   year      = {2026},
   publisher = {Zenodo},
   version   = {v1.0.0},
-  doi       = {10.5281/zenodo.XXXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXXX}
+  doi       = {10.5281/zenodo.20404730},
+  url       = {https://doi.org/10.5281/zenodo.20404730}
 }
 ```
 
