@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the accompanying paper."
+title: "Companion Notebook for Dual-Network PINNs for Optimal Control: A Reproducible Benchmark on the Mass-Spring-Damper System"
+version: "1.0.0"
+date-released: "2026-01-01"
+authors:
+  - family-names: "Tahimi"
+    given-names: "Abdeladhim"
+license: MIT
+repository-code: "https://github.com/Tahimi/PINN-MSD-Optimal-Control"
+url: "https://github.com/Tahimi/PINN-MSD-Optimal-Control"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.XXXXXXXX
+    description: "Zenodo archive of the companion notebook"
+type: software
+keywords:
+  - "physics-informed neural networks"
+  - "PINN"
+  - "optimal control"
+  - "mass-spring-damper"
+  - "Pontryagin's Minimum Principle"
+  - "trapezoidal collocation"
+  - "scientific machine learning"
+  - "reproducible research"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Tahimi"
+      given-names: "Abdeladhim"
+  title: "Dual-Network PINNs for Optimal Control: A Reproducible Benchmark on the Mass-Spring-Damper System"
+  year: 2026
+  notes: "In preparation"
