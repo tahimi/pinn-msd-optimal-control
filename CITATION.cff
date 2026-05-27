@@ -11,8 +11,8 @@ repository-code: "https://github.com/Tahimi/PINN-MSD-Optimal-Control"
 url: "https://github.com/Tahimi/PINN-MSD-Optimal-Control"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.XXXXXXXX
-    description: "Zenodo archive of the companion notebook"
+      value: 10.5281/zenodo.20404730
+      description: "Zenodo archive of the companion notebook"
 type: software
 keywords:
   - "physics-informed neural networks"
